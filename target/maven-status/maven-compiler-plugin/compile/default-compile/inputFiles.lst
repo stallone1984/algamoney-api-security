@@ -1,28 +1,28 @@
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\event\RecursoCriadoEvent.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\config\ResourceServerConfig.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Categoria_.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\resource\PessoaResource.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\config\OAuthSecurityConfig.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\event\listener\RecursoCriadoListener.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\exceptionhandler\AlgamoneyExceptionHandler.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\resource\CategoriaResource.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Lancamento.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\AlgamoneyApiApplication.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\lancamento\LancamentoRepositoryImpl.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\service\exception\PessoaInexistenteOuInativaException.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\service\LancamentoService.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\LancamentoRepository.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\CategoriaRepository.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Endereco.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Endereco_.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\TipoLancamento.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\filter\LancamentoFilter.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\PessoaRepository.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Pessoa.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Categoria.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\resource\LancamentoResource.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Lancamento_.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\config\AuthorizationServerConfig.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\model\Pessoa_.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\repository\lancamento\LancamentoRepositoryQuery.java
-C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\curso-angular-rest-spring-boot-api\5.9 Implementando a paginacao de lancamentos\algamoney-api\src\main\java\com\example\algamoney\api\service\PessoaService.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Categoria_.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Pessoa.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\event\RecursoCriadoEvent.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\filter\LancamentoFilter.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\lancamento\LancamentoRepositoryImpl.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\exceptionhandler\AlgamoneyExceptionHandler.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Categoria.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\resource\PessoaResource.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\config\ResourceServerConfig.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\AlgamoneyApiApplication.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\TipoLancamento.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\resource\LancamentoResource.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\config\AuthorizationServerConfig.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Lancamento_.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Endereco.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\PessoaRepository.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\config\OAuthSecurityConfig.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\CategoriaRepository.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Endereco_.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\service\LancamentoService.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Pessoa_.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\LancamentoRepository.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\model\Lancamento.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\repository\lancamento\LancamentoRepositoryQuery.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\service\PessoaService.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\resource\CategoriaResource.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\service\exception\PessoaInexistenteOuInativaException.java
+C:\Desenvolvimento\Estudos\Algaworks\SpringBoot\seguranca_jwt\algamoney-api\src\main\java\com\example\algamoney\api\event\listener\RecursoCriadoListener.java
